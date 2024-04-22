@@ -15,7 +15,7 @@ En este repositorio, proporcionamos una implementación básica de un DFA para l
 Para utilizar nuestra implementación de DFA en tu proyecto, simplemente [instrucciones sobre cómo integrarlo en tu proyecto].
 
 ```
-const DFA = new DFA()
+const dfa = new DFA()
 const correo = "jcestupinan@poligran.edu.co"
 console.log("El correo electrónico", correo, "es válido:", dfa.accept(correo))
 ```
