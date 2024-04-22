@@ -1,4 +1,4 @@
-# Validación de Correos Electrónicos con DFA
+# Validación de Correos Electrónicos con AFD
 
 ![Validación de Correos Electrónicos](https://www.poli.edu.co/sites/default/files/styles/institutional_hero/public/imagen-identidad-institucional-b.jpg?itok=hKMeqUPD)
 
