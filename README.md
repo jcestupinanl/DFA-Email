@@ -15,9 +15,9 @@ En este repositorio, proporcionamos una implementación básica de un AFD para l
 Para utilizar nuestra implementación de AFD en tu proyecto, simplemente [instrucciones sobre cómo integrarlo en tu proyecto].
 
 ```
-const afd = new AFD()
+const DFA = new AFD()
 const correo = "jcestupinan@poligran.edu.co"
-console.log("El correo electrónico", correo, "es válido:", afd.accept(correo))
+console.log("El correo electrónico", correo, "es válido:", dfa.accept(correo))
 ```
 
 ## Contribución
